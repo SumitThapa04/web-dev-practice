@@ -60,15 +60,6 @@ html-css-basics/
 
 ---
 
-## 🚀 Next Steps
-
-- Add CSS basics
-- Layout practice (Flexbox & Grid)
-- Responsive design
-- Small UI components
-
----
-
 ## 👤 Author
 
 **Sumit Thapa**  
